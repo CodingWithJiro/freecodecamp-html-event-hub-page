@@ -13,6 +13,7 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/f72084e7-a8dd-4a87-890f-9bb2a5150291/deploy-status)](https://event-hub-page-fcc-jiro.netlify.app/)
 ![Status](https://img.shields.io/badge/status-complete-brightgreen)
 ![Learning Path](https://img.shields.io/badge/learning%20path-month%201-blue)
+![Views](https://visitor-badge.laobi.icu/badge?page_id=CodingWithJiro.freecodecamp-html-event-hub-page&left_text=repo%20views)
 
 ## ℹ️ A TeamFight Tactics event hub page
 
